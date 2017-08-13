@@ -14,7 +14,7 @@ O mdc está relacionado com o mínimo múltiplo comum (mmc) da seguinte forma: m
 ```c
 int mmc(int a, int b)
 {
-    return a * (b / mmc(a, b));
+    return a * (b / mdc(a, b));
 }
 ```
 ## Links
