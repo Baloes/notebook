@@ -14,7 +14,8 @@ https://github.com/Baloes/discussoes/blob/master/Discuss%C3%A3o%20Treino%2023-06
 
 ## Problemas
 
-https://www.urionlinejudge.com.br/judge/pt/problems/view/1860
+https://www.urionlinejudge.com.br/judge/pt/problems/view/1860<br>
+https://www.urionlinejudge.com.br/judge/pt/problems/view/1294
 
 ## Código
 
